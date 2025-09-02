@@ -71,3 +71,15 @@ AtliQ Hardware was losing competitive ground due to reliance on **intuition-base
 *(Data model demonstrating multiple fact and dimension tables, showing the project’s complexity and scalability.)*  
 
 ---
+
+## **7. Project File Access**  
+You can access and download the full Power BI project file here:  
+
+🔗 **[Google Drive Link – Business Insights 360 Project](https://drive.google.com/drive/folders/15fUGF-_Yc5czpPuhy_fjcf_Iw88ShWvD)**  
+
+---
+
+### **📌 Note**  
+For the best experience, please download the `.pbix` file from the above link and open it in **Power BI Desktop**. The GitHub screenshots are just previews and do not fully represent the interactive capabilities of the dashboard.  
+
+---
